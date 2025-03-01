@@ -1,2 +1,2 @@
-# Project-Building_a_CNN_Classifier_using_TensorFlow_2_for_MNIST_Fashion_Dataset
+# Project - Building a CNN Classifier using TensorFlow 2 for MNIST Fashion Dataset
 In this project, we will understand how to use the TensorFlow 2 platform to build a simple classifier using Convolutional Neural Networks(CNNs).
